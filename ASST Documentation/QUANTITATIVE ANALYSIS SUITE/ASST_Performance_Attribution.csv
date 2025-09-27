@@ -1,0 +1,7 @@
+Month,Premium_Income_Monthly,Assignment_Profits_Monthly,Hedge_Value_Change_Monthly,Total_Monthly_Return,Cumulative_Premium_Income,Cumulative_Assignment_Profits,Cumulative_Hedge_Value,Cumulative_Total_Return,Premium_Attribution_%,Assignment_Attribution_%,Hedge_Attribution_%,Monthly_ROI_%
+1,1000.0,500,200,1700.0,1000.0,500,200,1700.0,58.8,29.4,11.8,12.1
+2,1150.0,1000,400,2550.0,2150.0,1500,600,4250.0,50.6,35.3,14.1,14.2
+3,1322.0,1500,600,3422.0,3472.0,3000,1200,7672.0,45.3,39.1,15.6,15.6
+4,1521.0,2000,800,4321.0,4993.0,5000,2000,11993.0,41.6,41.7,16.7,16.6
+5,1749.0,2500,1000,5249.0,6742.0,7500,3000,17242.0,39.1,43.5,17.4,17.5
+6,2011.0,3000,1200,6211.0,8754.0,10500,4200,23454.0,37.3,44.8,17.9,18.3

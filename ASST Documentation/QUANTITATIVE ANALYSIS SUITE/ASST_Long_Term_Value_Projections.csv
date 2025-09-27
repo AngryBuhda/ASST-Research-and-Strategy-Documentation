@@ -1,0 +1,6 @@
+Scenario,Target_Price,Probability_%,Share_Value,Share_Cost_Basis,Share_Profit,Share_Multiple,Hedge_Profit,Hedge_Multiple,Total_Premium_Income,Total_Return,Total_Investment,ROI_%,Risk_Adjusted_Return,Timeframe_Years,Catalyst
+Conservative,5.0,70.0,57760.0,17097.0,40663.0,3.4,52083.0,10.4,18000,110746.0,32000,346.0,77522.0,2-5 years,Bitcoin recovery + business improvement
+Moderate,8.0,50.0,92416.0,17097.0,75319.0,5.4,83333.0,16.7,18000,176652.0,32000,552.0,88326.0,2-5 years,Bitcoin recovery + business improvement
+Strong,12.0,30.0,138624.0,17097.0,121527.0,8.1,125000.0,25.0,18000,264527.0,32000,827.0,79358.0,2-5 years,Bitcoin recovery + business improvement
+Explosive,20.0,15.0,231040.0,17097.0,213943.0,13.5,150000.0,30.0,18000,381943.0,32000,1194.0,57291.0,2-5 years,Bitcoin recovery + business improvement
+Extreme,30.0,5.0,346560.0,17097.0,329463.0,20.3,150000.0,30.0,18000,497463.0,32000,1555.0,24873.0,2-5 years,Bitcoin recovery + business improvement

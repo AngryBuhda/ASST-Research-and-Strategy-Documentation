@@ -1,0 +1,8 @@
+Order_ID,Day,Action,Symbol,Quantity,Estimated_Cost,Priority,Rationale,Cash_Flow_Impact,Expected_Execution_Time,Estimated_Proceeds,Estimated_Premium
+1,1,BUY_TO_CLOSE,ASST Jan 16 $20C,75,1125.0,HIGH,Eliminate upside caps conflicting with share accumulation,-1125,9:30 AM,,
+2,1,BUY_TO_CLOSE,ASST Jan 16 $12.5C,15,345.0,HIGH,Eliminate negative gamma drag,-345,9:30 AM,,
+3,1,SELL_TO_CLOSE,ASST Jan 16 $10C,18,,MEDIUM,"Optimize allocation, retain core hedge",324,10:30 AM,324.0,
+4,2,SELL,ASST Oct 24 $2.50P,12,,HIGH,Maximum assignment probability - 95%,1416,9:30 AM,,1416.0
+5,2,SELL,ASST Oct 24 $3.00P,8,,HIGH,Premium + assignment balance - 75%,1224,9:30 AM,,1224.0
+6,3,BUY,ASST Nov 15 $5.00C,12,420.0,MEDIUM,Near-term hedge protection,-420,10:00 AM,,
+7,3,BUY,ASST Dec 20 $7.50C,15,375.0,MEDIUM,Medium-term upside capture,-375,10:00 AM,,
